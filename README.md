@@ -10,4 +10,5 @@ para realizar esta aplicação foi necessário utilizar de algumas bibliotecas, 
 "mongoose": "^5.12.3"
 "nodemon": "^2.0.7"
 # Testes de crud
-É necessário ter o postman para que consiga testar o crud completo, pois é uma aplicação feita em rest, o resultado dos teste será evidenciado na plataforma MongoDBAtlas 
+É necessário ter o postman para que consiga testar o crud completo, pois é uma aplicação feita em rest, o resultado dos teste será evidenciado na plataforma MongoDBAtlas.
+Através da url http://localhost:8080/api/produtos você pode realizar todos os testes do crud pelo postman.
